@@ -11,3 +11,12 @@ bank.
 * items.txt – List of item names for auction houses to sell.
 * README.md – This file.
 
+##[ Running the System
+1. Start the Bank (on one machine)
+   java Bank.BankMain
+
+2. Start one or more Auction Houses
+   java Auctionhouse.AuctionHouseMain <BankIP> <BankPort> items.
+
+Example:
+java Auctionhouse.AuctionHouseMain 10.0.0.105 9090 items.txt
