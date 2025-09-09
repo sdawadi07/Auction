@@ -4,6 +4,7 @@ Auction Houses, and multiple Agents — each running as a separate application. 
 interact with auction houses to bid on items, and funds are managed securely through the
 bank.
 
+
 ## Project Structure
 * Bank/ – Manages account creation, fund blocking, and transfers.
 * Auctionhouse/ – Hosts and manages auction items. Accepts bids from agents.
