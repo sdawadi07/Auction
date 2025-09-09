@@ -16,6 +16,7 @@ bank.
 1. Start the Bank (on one machine)
    java Bank.BankMain
 
+
 2. Start one or more Auction Houses
    java Auctionhouse.AuctionHouseMain <BankIP> <BankPort> items.
 
