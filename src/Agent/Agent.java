@@ -48,6 +48,7 @@ public class Agent implements Runnable {
         this.bankPort = bankPort;
     }
 
+
     /**
      * Connects to the Bank, creates an account, and listens for AuctionHouse updates.
      */
