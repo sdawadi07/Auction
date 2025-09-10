@@ -39,6 +39,7 @@ public class Agent implements Runnable {
 
     public boolean hasBankId = false;
 
+
     /**
      * Constructs an Agent with the bank's IP address and port number.
      */
