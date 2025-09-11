@@ -5,6 +5,7 @@ import javafx.scene.layout.VBox;
 
 import java.util.LinkedList;
 
+
 /**
  * AuctionGUI is a JavaFX component that displays the auction items from a single Auction House.
  * It supports navigation between multiple items, updating bid values, and dynamically adding items.
