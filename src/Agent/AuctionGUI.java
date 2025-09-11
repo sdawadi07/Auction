@@ -27,6 +27,7 @@ public class AuctionGUI extends VBox {
         reloadItem();
     }
 
+
     /**
      * Applies spacing and background styling to the component.
      */
