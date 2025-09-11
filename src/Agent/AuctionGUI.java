@@ -15,6 +15,7 @@ public class AuctionGUI extends VBox {
     private int itemIndex = 0;
     LinkedList<AuctionItemGUI> auctionItemPane = new LinkedList<>();
 
+
     /**
      * Constructs the GUI view for a single auction house, given an initial item list.
      * @param itemList The array of item names offered by this auction house.
