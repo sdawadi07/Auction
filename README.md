@@ -5,7 +5,7 @@ interact with auction houses to bid on items, and funds are managed securely thr
 bank.
 
 
-## Project Structure
+ ## Project Structure
 * Bank/ – Manages account creation, fund blocking, and transfers.
 * Auctionhouse/ – Hosts and manages auction items. Accepts bids from agents.
 * Agent/ – JavaFX-based GUI allowing users to view, bid, and track auctions.
