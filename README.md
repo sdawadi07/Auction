@@ -1,4 +1,4 @@
- # Auction
+# Auction
 This project simulates a distributed auction platform featuring a central Bank, multiple 
 Auction Houses, and multiple Agents — each running as a separate application. Agents can
 interact with auction houses to bid on items, and funds are managed securely through the
