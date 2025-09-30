@@ -1,4 +1,4 @@
-package Agent;
+ package Agent;
 
 import javafx.scene.Node;
 import javafx.scene.layout.VBox;
